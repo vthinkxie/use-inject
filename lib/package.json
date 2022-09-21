@@ -1,0 +1,27 @@
+{
+  "name": "use-inject",
+  "version": "0.0.2",
+  "description": "injection-js react hooks",
+  "main": "dist/use-inject.umd.js",
+  "module": "dist/use-inject.es5.js",
+  "typings": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vthinkxie/use-inject.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "DI",
+    "dependency",
+    "injection",
+    "dependency injection",
+    "injector",
+    "typescript"
+  ],
+  "author": "yadongxie",
+  "license": "MIT",
+  "devDependencies": {
+    "react-test-renderer": "^18.2.0"
+  }
+}
